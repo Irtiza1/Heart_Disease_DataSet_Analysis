@@ -1,1 +1,16 @@
-# Heart_Disease_DataSet_Analysis
+# Heart Disease Analysis - Data Exploration and Insights
+# Overview
+Welcome to the "Heart Disease Analysis - Data Exploration and Insights" project repository. This open-source project focuses on in-depth analysis and visualization of heart disease-related data using Jupyter notebooks. Our goal is to uncover valuable insights, patterns, and trends in heart health data to contribute to the understanding and management of heart disease.
+
+# Key Features
+Data Exploration: Explore a variety of heart disease datasets using Jupyter notebooks, gaining valuable insights into the characteristics and attributes associated with heart health.
+Interactive Notebooks: Dive into interactive Jupyter notebooks that guide you through data preprocessing, exploratory data analysis, and visualization, making it easy to understand and replicate the analysis.
+Visualizations: Utilize rich visualizations to depict key findings, trends, and correlations within heart disease datasets.
+Contribution: We encourage data enthusiasts, analysts, and researchers to contribute their own analyses, visualizations, or improvements to enhance our understanding of heart disease.
+Usage
+Explore the Jupyter notebooks provided in this repository to delve into the analysis of heart disease datasets. You can leverage our analysis as a foundation for your own work, replicate it with different datasets, or build upon it to generate new insights.
+
+# Notebooks Included
+1. Data Cleaning and Preprocessing
+2. Exploratory Data Analysis (EDA)
+3. Feature Importance and Correlations
