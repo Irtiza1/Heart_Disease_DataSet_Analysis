@@ -12,16 +12,6 @@ Contribution: We encourage data enthusiasts, analysts, and researchers to contri
 # Usage
 Explore the Jupyter notebooks provided in this repository to delve into the analysis of heart disease datasets. You can leverage our analysis as a foundation for your own work, replicate it with different datasets, or build upon it to generate new insights.
 
-Clone the Repository:
-git clone https://github.com/yourusername/heart-disease-analysis.git
-cd heart-disease-analysis
-
-Set Up Your Environment: We recommend using a virtual environment to manage dependencies.
-virtualenv venv
-source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
-pip install -r requirements.txt
-Explore the Notebooks: Open and run the Jupyter notebooks to explore our analysis and contribute your insights.
-
 # Notebooks Included
 1. Data Cleaning and Preprocessing
 2. Exploratory Data Analysis (EDA)
@@ -32,7 +22,7 @@ We welcome contributions from the community! If you'd like to contribute your ow
 
 # Dependencies
 This project is built using Python and the following libraries:
-pandas
+pandas,
 seaborn
 
 # Support and Contact
