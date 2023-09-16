@@ -1,5 +1,5 @@
 # Heart Disease Analysis - Data Exploration and Insights
-![Heart]([URL_to_Your_Image](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.narayanahealth.org%2Fblog%2Fwp-content%2Fuploads%2F2023%2F05%2Fpolotno-3-1-1.jpeg&tbnid=iW6Ck2kgV5I0TM&vet=12ahUKEwjBna-a1a-BAxU5pCcCHaEKCQEQMygEegQIARB8..i&imgrefurl=https%3A%2F%2Fwww.narayanahealth.org%2Fblog%2Fsymptoms-of-heart-disease-across-different-age-groups-and-genders%2F&docid=onNZcTD5vHp2gM&w=800&h=445&q=heart%20disease&ved=2ahUKEwjBna-a1a-BAxU5pCcCHaEKCQEQMygEegQIARB8))
+![Heart](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.narayanahealth.org%2Fblog%2Fwp-content%2Fuploads%2F2023%2F05%2Fpolotno-3-1-1.jpeg&tbnid=iW6Ck2kgV5I0TM&vet=12ahUKEwjBna-a1a-BAxU5pCcCHaEKCQEQMygEegQIARB8..i&imgrefurl=https%3A%2F%2Fwww.narayanahealth.org%2Fblog%2Fsymptoms-of-heart-disease-across-different-age-groups-and-genders%2F&docid=onNZcTD5vHp2gM&w=800&h=445&q=heart%20disease&ved=2ahUKEwjBna-a1a-BAxU5pCcCHaEKCQEQMygEegQIARB8)
 
 # Overview
 Welcome to the "Heart Disease Analysis - Data Exploration and Insights" project repository. This open-source project focuses on in-depth analysis and visualization of heart disease-related data using Jupyter notebooks. Our goal is to uncover valuable insights, patterns, and trends in heart health data to contribute to the understanding and management of heart disease.
