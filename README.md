@@ -14,3 +14,11 @@ Explore the Jupyter notebooks provided in this repository to delve into the anal
 1. Data Cleaning and Preprocessing
 2. Exploratory Data Analysis (EDA)
 3. Feature Importance and Correlations
+Contributing
+We welcome contributions from the community! If you'd like to contribute your own analyses, visualizations, or improvements, please review our contribution guidelines and open a pull request with your changes.
+
+# Support and Contact
+For questions, suggestions, or collaborations, please feel free to contact us or open an issue in the repository.
+
+Maintainer: [Muhammad Irtiza]
+Email: [irtiza.s2918@gmail.com]
