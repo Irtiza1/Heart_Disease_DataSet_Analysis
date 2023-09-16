@@ -18,7 +18,7 @@ Explore the Jupyter notebooks provided in this repository to delve into the anal
 3. Feature Importance and Correlations
 
 # Contributing
-We welcome contributions from the community! If you'd like to contribute your own analyses, visualizations, or improvements, please review our contribution guidelines and open a pull request with your changes.
+We welcome contributions from the community! If you'd like to contribute your own analyses, visualizations, or improvements, please open a pull request with your changes.
 
 # Dependencies
 This project is built using Python and the following libraries:
